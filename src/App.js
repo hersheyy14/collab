@@ -8,7 +8,6 @@ import Feed from "./Pages/Feed";
 function App() {
   return (
     <div className="App">
-      hello world!!
       <Navbar />
       <BrowserRouter>
         <Routes>
